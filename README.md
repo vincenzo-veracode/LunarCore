@@ -7,7 +7,7 @@
 A game server reimplementation for version 1.5.0 of a certain turn-based anime game for educational purposes. For any extra support, questions, or discussions, check out our [discord](https://discord.gg/cfPKJ6N5hw).
 
 ### Notable features
-- Basic game features: Logging in, team setup, inventory, basic scene/entity management
+- Basic game features: Logging in, team setup, inventory, basic scene/entity management 
 - Monster battles working
 - Natural world monster/prop/NPC spawns
 - Most character techniques are handled
